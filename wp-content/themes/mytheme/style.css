@@ -1,0 +1,18 @@
+/*
+Theme Name: BS3 Theme;
+Theme URI: ;
+Description: My Bootstrap Responsive Theme;
+Version: 1;
+Author: Keshav Lawande;
+Author URI: ;
+*/
+
+@import url('css/bootstrap.min.css');
+
+body {
+    margin-bottom: 70px;
+}
+
+.panel h3 {
+    margin-top: 5px;
+}
